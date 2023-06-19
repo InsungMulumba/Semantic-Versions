@@ -1,0 +1,27 @@
+{
+  "name": "semantic-versions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "jest": {
+    "verbose": true
+  },
+  "scripts": {
+    "test": "jest",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InsungMulumba/semantic-versions/issues"
+  },
+  "homepage": "https://github.com/InsungMulumba/semantic-versions#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.22.5",
+    "jest": "^29.5.0"
+  }
+}
